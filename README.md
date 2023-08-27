@@ -19,7 +19,7 @@
 
 ## About The Project
 
-![Screen Shot](images/screenshot.png)
+![](https://github.com/RISING-CODER777/HR-Dashboard/blob/main/images/home.png)
 
 The "Power BI HR Data Transformation and Advanced Visualization" project aims to showcase the capabilities of Power BI in transforming raw, messy HR data into a clean, organized format and then using it to create interactive and advanced reports and dashboards. The project focuses on taking data in CSV format, which is often unstructured and challenging to analyze, and demonstrates how Power Query can be used to clean and shape the data into a usable form. The transformed data is then loaded into Power BI, where it is utilized to build insightful HR reports and dashboards.
 
